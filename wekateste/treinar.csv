@@ -1,0 +1,15 @@
+tempo,temperatura,umidade,ventando,jogar
+ensolarado,85,85,falso,nao
+ensolarado,80,90,verdade,nao
+nublado,83,86,falso,sim
+chuvoso,70,96,falso,sim
+chuvoso,68,80,falso,sim
+chuvoso,65,70,verdade,nao
+nublado,64,65,verdade,sim
+ensolarado,72,95,falso,nao
+ensolarado,69,70,falso,sim
+chuvoso,75,80,falso,sim
+ensolarado,75,70,verdade,sim
+nublado,72,90,verdade,sim
+nublado,81,75,falso,sim
+chuvoso,71,91,verdade,nao
